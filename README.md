@@ -1,13 +1,16 @@
-# 死火
+# 死火 · Dead Fire
 
 韩子灰 · 小说集
 
-**[在线阅读 PDF](./sihuo.pdf)** · **[下载 PDF](https://github.com/liamshanlicheng2025/sihuo/raw/refs/heads/main/sihuo.pdf)**
+**[在线阅读 PDF](./sihuo.pdf)** · **[下载 PDF](https://github.com/liamshanlicheng2025/Dead-Fire/raw/refs/heads/main/sihuo.pdf)**
 
-本版共 135 页，含可点击目录和分部书签，适合电脑、平板阅读或下载后离线阅读。
+本版共 146 页，含可点击目录和分部书签，适合电脑、平板阅读或下载后离线阅读。
+
+本次更新加入约五千字导读，并在五个分部页各选取四至五行楷体摘录。
 
 ## 目录
 
+- 导读：在灰色中辨认余温
 - 代序：还有什么可以送给你
 - 前章：酒精与白玫瑰、鼾、西湖、致死魂灵
 - 间奏：我生
