@@ -4,7 +4,7 @@
 
 导读：ChatGPT & Deepseek
 
-**[在线阅读 PDF](./sihuo.pdf)** · **[下载 PDF](https://github.com/liamshanlicheng2025/Dead-Fire/raw/refs/heads/main/sihuo.pdf)**
+**[在线阅读 PDF](https://liamshanlicheng2025.github.io/Dead-Fire/Dead%20Fire%20by%20Grise%20Han.pdf)** · **[下载 PDF](https://github.com/liamshanlicheng2025/Dead-Fire/raw/refs/heads/main/Dead%20Fire%20by%20Grise%20Han.pdf)**
 
 本版共 148 页，含可点击目录和分部书签，适合电脑、平板阅读或下载后离线阅读。
 
